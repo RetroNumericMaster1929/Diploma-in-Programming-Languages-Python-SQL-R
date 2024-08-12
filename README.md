@@ -65,3 +65,5 @@ Lecture notes and assignments (in Spanish) analysed through the <b> Diploma of P
     </ol>
   <li> Introducción al Análisis Multivariado.</li>
 </ol>
+<br><br>
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Emmanuel Rivera López </span> is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution, Non Commercial, Non Derivatives 4.0 International License</a>.
