@@ -67,7 +67,7 @@ Lecture notes and assignments (in Spanish) analysed through the <b> Diploma of P
 </ol>
 <br><br>
 
-# **License**
+## **License**
 Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
 This work by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Emmanuel Rivera López </span> is licensed under a
