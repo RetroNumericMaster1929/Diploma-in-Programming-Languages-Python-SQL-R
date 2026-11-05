@@ -2,8 +2,9 @@
 
 <div align="center">
 
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![JupyterLab](https://img.shields.io/badge/JupyterLab-Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyterlab.readthedocs.io/)
 
 </div>
 
