@@ -1,4 +1,12 @@
 # Diploma in Programming-Languages-Python-SQL-R
+
+<div align="center">
+
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
+</div>
+
 Lecture notes and assignments (in Spanish) analysed through the <b> Diploma of Programming Languages: Python, SQL & R </b> under the professorship of Dr. Julio César Galindo López in collaboration with the Actuarial Science Program of the Universidad Marista (UMA)
 
 ## **Módulo I: Introducción al Lenguaje de Programación Python.**
